@@ -141,7 +141,7 @@ EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
 ###### Email information
 EMAIL_HOST_USER = 'expressyourthought05@gmail.com'
-EMAIL_HOST_PASSWORD = 'thisisbusinessemail05'
+EMAIL_HOST_PASSWORD = 'can't allow you to see my password!'
 ############################################################
 
 MEDIA_URL = '/media/'
